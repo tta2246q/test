@@ -26,6 +26,10 @@
     @include('block.block3')
     <hr>
     @include('block.block4')
+    <hr>
+    @include('block.block5')
+    @include('block.block6')
+    @include('block.block7')
     @include('compoment.footer')
 
 
