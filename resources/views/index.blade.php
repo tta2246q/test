@@ -24,7 +24,6 @@
     @include('block.block1')
     @include('block.block2')
     @include('block.block3')
-    <hr>
     @include('block.block4')
     <hr>
     @include('block.block5')
@@ -47,6 +46,7 @@
         integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
     </script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 
     <script>
         var swiper = new Swiper(".mySwiper", {

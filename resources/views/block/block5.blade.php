@@ -40,5 +40,5 @@
         </div>
     </div>
 
-    <button class="btn btn-read-more">Read more</button>
+    <input type="button" class="btn-read-more" value="read more" />
 </div>

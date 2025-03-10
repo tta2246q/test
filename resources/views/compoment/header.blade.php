@@ -1,4 +1,5 @@
 
+<header class="header">
     <nav class="navbar navbar-expand-lg navbar-light bg-light ">
         <div class="container-fluid">
             
@@ -40,8 +41,9 @@
                             Language
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li>VN</li>
-                            <li>EN</li>
+                            <li><a class="dropdown-item" href="#">VN</a></li>
+                            <li><a class="dropdown-item" href="#">EN</a></li>
+
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -53,4 +55,5 @@
         </div>
 
     </nav>
+</header>
 
